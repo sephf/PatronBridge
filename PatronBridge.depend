@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\john colomer\documents\programacion 2\patronbridge\main.cpp
+	<iostream>
+
+1654735194 source:c:\users\john colomer\documents\programacion 2\patronbridge\src\verde.cpp
+	"Verde.h"
+
+1654734649 c:\users\john colomer\documents\programacion 2\patronbridge\include\verde.h
+	"Color.h"
+
+1654734649 c:\users\john colomer\documents\programacion 2\patronbridge\include\color.h
+	<iostream>
+	<string>
+	<sstream>
+
+1654735052 source:c:\users\john colomer\documents\programacion 2\patronbridge\src\amarillo.cpp
+	"Amarillo.h"
+
+1654735052 c:\users\john colomer\documents\programacion 2\patronbridge\include\amarillo.h
+	"Color.h"
+
+1654735052 source:c:\users\john colomer\documents\programacion 2\patronbridge\src\figura.cpp
+	"Figura.h"
+
+1654735052 c:\users\john colomer\documents\programacion 2\patronbridge\include\figura.h
+	"Color.h"
+
+1654735285 source:c:\users\john colomer\documents\programacion 2\patronbridge\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1654735324 c:\users\john colomer\documents\programacion 2\patronbridge\include\cuadrado.h
+	"Figura.h"
+
+1654735450 source:c:\users\john colomer\documents\programacion 2\patronbridge\src\triangulo.cpp
+	"Triangulo.h"
+
+1654735414 c:\users\john colomer\documents\programacion 2\patronbridge\include\triangulo.h
+	"Figura.h"
+
+1654735868 source:c:\users\admin\downloads\patronbridge\main.cpp
+	<iostream>
+	"Triangulo.h"
+	"Cuadrado.h"
+	"Verde.h"
+	"Amarillo.h"
+
+1654735414 c:\users\admin\downloads\patronbridge\include\triangulo.h
+	"Figura.h"
+
+1654833338 c:\users\admin\downloads\patronbridge\include\figura.h
+	"Color.h"
+
+1654734649 c:\users\admin\downloads\patronbridge\include\color.h
+	<iostream>
+	<string>
+	<sstream>
+
+1654735324 c:\users\admin\downloads\patronbridge\include\cuadrado.h
+	"Figura.h"
+
+1654734649 c:\users\admin\downloads\patronbridge\include\verde.h
+	"Color.h"
+
+1654735052 c:\users\admin\downloads\patronbridge\include\amarillo.h
+	"Color.h"
+
+1654735052 source:c:\users\admin\downloads\patronbridge\src\amarillo.cpp
+	"Amarillo.h"
+
+1654833450 source:c:\users\admin\downloads\patronbridge\src\cuadrado.cpp
+	"Cuadrado.h"
+
+1654735450 source:c:\users\admin\downloads\patronbridge\src\triangulo.cpp
+	"Triangulo.h"
+
+1654735194 source:c:\users\admin\downloads\patronbridge\src\verde.cpp
+	"Verde.h"
+
+1654833338 source:c:\users\admin\downloads\patronbridge\src\figura.cpp
+	"Figura.h"
+
